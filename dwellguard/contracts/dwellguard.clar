@@ -1,7 +1,4 @@
 ;; DwellGuard: A Secure Escrow Smart Contract for Real Estate Transactions
-;; Version: 2.1
-;; Author: Your Organization
-;; License: MIT
 
 ;; Constants
 (define-constant ADMIN tx-sender)
